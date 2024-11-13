@@ -1,0 +1,6 @@
+# .gitignore
+.env               # Ignore environment variables file
+__pycache__/       # Ignore Python cache files
+*.pyc              # Ignore compiled Python files
+*.db               # Ignore database files
+node_modules/      # If using Node.js, ignore node_modules
